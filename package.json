@@ -1,0 +1,15 @@
+{
+  "name": "sniffingsnoutsautomated",
+  "version": "1.0.0",
+  "description": "Automated uploading of the adoption-pets on the adoption-websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Sara Debbaut",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.1.4"
+  }
+}
