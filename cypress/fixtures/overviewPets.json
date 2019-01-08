@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "websites": {
+      "pets": "OK",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "status": "available",
+    "type": "dog",
+    "dog": {
+      "breed": "Chihuahua",
+      "carTravel": "_none",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifeStyle": "outdoor"
+    },
+    "name": "dino",
+    "age": "4",
+    "ageInText": "young",
+    "gender": "female",
+    "comments": "Ik ben Dino een mini chihuahua reutje choco tan. Ik ben een hondje dat heel veel geduld en tijd nodig heb want ik ben wat schuchter. Maar eens ik mijn vrouwtje ken lukt het mij wel.\nDan ben ik een echte schoothond.\nOok al ben ik klein, wandelen vindt ik fijn.\nIk zoek een huisje waar ik mezelf mag zijn.\nIn het begin plas ik wel eens in huis maar eens ik me goed voel lukt het mij wel. Wie heeft er veel tijd voor mij en heeft geduld genoeg om mij een thuis te geven om tot rust te komen.\nIk kan met honden als ze mij met rust laten. Van katten hou ik niet, kinderen lukt goed maar mannen liggen mij niet zo.",
+    "dogFriendly": "yes",
+    "catFriendly": "no",
+    "smallKidFriendly": "yes",
+    "bigKidFriendly": "yes",
+    "size": "1",
+    "needsSpecialCare": "yes",
+    "specialCareDescr": "bla bla",
+    "vaccinated": "no",
+    "microchipped": "no",
+    "desexed": "no",
+    "wormed": "no",
+    "heartWormTreated": "no",
+    "photo": "yes",
+    "photoCount": 4
+  }
+]
