@@ -10,6 +10,11 @@
   "author": "Sara Debbaut",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.1.4"
+    "cypress": "^3.1.4",
+    "eslint-plugin-chai-friendly": "^0.4.1",
+    "eslint-plugin-cypress": "^2.2.0"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.8"
   }
 }
