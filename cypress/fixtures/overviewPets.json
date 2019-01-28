@@ -2,40 +2,1327 @@
   {
     "id": "1",
     "websites": {
-      "pets": "OK",
+      "pets": "REMOVED",
       "vitus": "",
       "adopteer": ""
     },
+    "name": "Alfredo",
+    "status": "adopted",
+    "type": "cat",
+    "age": "8",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "yes",
+    "size": "unknown",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "yes",
+    "wormed": "yes",
+    "heartWormTreated": "no",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Alfredo is een stoere kater. \nBinnen gekomen, omdat hij heel ziek was, en hij was niet zo lief in het begin, heel afstandelijk en terug getrokken en als je dan aandacht aan hem wou geven dan durfde hij te blazen en te krabben. \nNu enige tijd later is hij opengebloeid tot een ware aandacht zoekende kater. Gaat hij een terugval kunnen hebben in het begin, natuurlijk kan dit dit kan bij elk dier gebeuren; Een mens heeft ook meestal wat aanpassingstijd nodig he. Een poes nu eenmaal ook. \nHij gaat wel genieten van een tuintje denk ik, vermits hij toch een eind rondgezworven heeft op straat. Hij komt nu telkens hij me ziet knuffels vragen, en tegen men benen aan duwen, kopjes geven en aaitjes vragen. Een ware transformatie dus. \nPakken daar is hij zo niet voor, maar om eerlijk te zijn dat zijn maar weinig poezen he. \nEn het is een echte kat als je te ver gaat durft hij nog wel eens laten zien dat het hem niet aanstaat. \nHele kleine kinderen zou ik hem niet bij plaatsen, ook niet voor de drukte. \nAlfredo wordt in mei 8 jaar, wie wilt hem voor zijn verjaardag nog een huisje geven? \nHij is gechipt, heeft een paspoort is geregistreerd, ingeent, gecastreerd, getest op aids leucose (negatief) en steriel. \nInteresse mail ons voor de vragenlijst."
+  },
+  {
+    "id": "2",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Cartouche",
     "status": "available",
     "type": "dog",
+    "age": "10",
+    "gender": "male",
     "dog": {
-      "breed": "Chihuahua",
-      "carTravel": "_none",
+      "breed": "pincher",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "unknown"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "senior",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "4",
+    "comments": "cartouche of touchke is van 2008\nis een superlieve jongen maar kan zijn kuren hebben \nhij wilt zeker niet opgepakt worden want dan krijgt hij een kuur \nniet bij kleine kindjes plaatsen \nbest met iemand die een lieve hond met karakter wilt hebben\nermee gaan wandelen is moeilijk aan de hand van dat ze u eerst heel goed moeten vertrouwen voor je hun tuigje kan aandoen, anders durft hij een knapje geven. \nzindelijk\nis oudere personen gewend, \ninteresse mail voor onze vragenlijst."
+  },
+  {
+    "id": "3",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Laika",
+    "status": "available",
+    "type": "dog",
+    "age": "4",
+    "gender": "female",
+    "dog": {
+      "breed": "mix mechelaar american stafford",
+      "carTravel": "unknown",
+      "stayAlone": "yes",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "yes",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "medium",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Laika:\nHaar geboortedatum: 08/04/2014\nHaar positieve punten zijn :\nZe is enorm enthousiast, nieuwsgierig en happy.\nZe is heel zindelijk en kan gerust alleen blijven thuis zonder iets stuk te doen.\nZe komt overeen met andere honden.\nZe heeft heel graag company en dan vooral zo dicht mogelijk tegen haar aangeplakt want ze volgt je overal.\nZe waakt goed. Ze vangt spinnen (ideaal bij vrouwen)\nNegatief : Ze heeft niet veel aandacht voor je als je er mee buiten gaat ,\naan de leiband lopen doet ze nog niet zo goed. Ze trekt nog veel.\nZe bijt naar bijen. Ze kan koppig zijn.\nWe zoeken voor haar iemand met een grote tuin waar ze haar energie kwijt kan.\nlaika is een uit huis plaatsing, dus alle communicatie graag via het contactformulier of mail. hebt u interesse mail ons voor de vragenlijst. laika verblijft in aalst"
+  },
+  {
+    "id": "4",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Tommy",
+    "status": "available",
+    "type": "dog",
+    "age": "10",
+    "gender": "male",
+    "dog": {
+      "breed": "pincher",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "unknown"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "senior",
+    "dogFriendly": "yes",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "unknown",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Tommy is een pincher van ongeveer 10 jaar \nis een karakter hondje zoals veel pinchers meegegeven is. \nhij moet je volledig vertrouwen voor hij je een tuigje ofzo aan laat doen. om te gaan wandelen anders durft hij al een koppig te zijn en zijn tandjes te laten zien. \nkan met andere honden. \ninteresse mail voor de vragenlijst"
+  },
+  {
+    "id": "5",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Nelleke",
+    "status": "available",
+    "type": "dog",
+    "age": "10",
+    "gender": "female",
+    "dog": {
+      "breed": "cocker",
+      "carTravel": "yes",
       "stayAlone": "unknown",
       "energyLevel": "normal",
       "houseTrained": "yes"
     },
     "cat": {
-      "lifeStyle": "outdoor"
+      "lifestyle": "undefined"
     },
-    "name": "dino",
-    "age": "4",
-    "ageInText": "young",
+    "ageInText": "senior",
+    "dogFriendly": "yes",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Nelleke is een cockertje van 10 jaar \nze mist 1 oogje , en haar andere oogje heeft enorme cataract \nop de moment krijgt ze ook druppeltjes voor dat oogje omdat ze geen traanvochta anmaakt en een droog oog doet pijn natuurlijk \nze had een enorme oorontsteking en wordt daar ook nog voor behandeld \nze kan met andere honden, maar een rustig huisje zou natuurlijk ook leuk zijn voor haar \nhebt u interesse om een senior dame een huisje te geven contacteer ons dan voor de vragenlijst \nverblijft in gastgezin in temse"
+  },
+  {
+    "id": "6",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Prutske",
+    "status": "died",
+    "type": "dog",
+    "age": "14",
     "gender": "female",
-    "comments": "Ik ben Dino een mini chihuahua reutje choco tan. Ik ben een hondje dat heel veel geduld en tijd nodig heb want ik ben wat schuchter. Maar eens ik mijn vrouwtje ken lukt het mij wel.\nDan ben ik een echte schoothond.\nOok al ben ik klein, wandelen vindt ik fijn.\nIk zoek een huisje waar ik mezelf mag zijn.\nIn het begin plas ik wel eens in huis maar eens ik me goed voel lukt het mij wel. Wie heeft er veel tijd voor mij en heeft geduld genoeg om mij een thuis te geven om tot rust te komen.\nIk kan met honden als ze mij met rust laten. Van katten hou ik niet, kinderen lukt goed maar mannen liggen mij niet zo.",
+    "dog": {
+      "breed": "pincher",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "unknown"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "senior",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "very small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "prutske is een senior pincher \nwilt niet liever dan aandacht en je bij haar te hebben \nanders durft ze nogal blaffend zijn \ninteresse mail ons voor de vragenlijst"
+  },
+  {
+    "id": "7",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Golfo",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Golfo is een mooie wit zwarte kater. \neens hij je kent houdt hij ervan om knuffels en aaitjes te krijgen. maar pakken is een nee voor hem. \nhij is wel superlief en kan ook met andere poezen. \ninteresse gelieve ons te contacteren voor onze vragenlijst"
+  },
+  {
+    "id": "8",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Star",
+    "status": "available",
+    "type": "cat",
+    "age": "3",
+    "gender": "female",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "young",
+    "dogFriendly": "unknown",
+    "catFriendly": "yes",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "no",
+    "photoCount": "?",
+    "comments": "Star is een prachtige zwart wit langharige kattin. \nZe heeft een verleden achter de rug van weggejaagd te worden. \nDus ze heeft zeker aanpassing nodig om open te bloeien. \nHet is geen poes die gepakt wilt worden. Want dan zet ze haar nagels en krijgt ze heel veel stress. \nOp je schoot of benen komen zitten is ook niks voor haar want ik merk dat als ik me neerzet met men benen languit dat ze erover springt terwijl ze aaitjes komt vragen. \nJe mag niet te wild of te snel naar haar toe gaan je moet haar echt tijd geven, want anders is ze weg. \nZe kan super met andere poezen overweg als het maar geen dominante poezen zijn. \nHier is ze de beste vriendin van Frosty. \nOveral waar zij gaat volgt frosty haar ze liggen geregeld samen te slapen, eten samen. Echt schattig om zien. Raar maar waar maar Star heeft desondanks haar verleden en teruggetrokken karakter wel gemaakt dat Frosty zich laat zien in de opvang, en zelfs als hij vleesje krijgt een aaitje of een aanraking kan verdragen. \nZe heeft dus wel tijd nodig om open te bloeien en ik denk ook het beste niet bij kleine kinderen. Maar echt mensen met geduld en rust om hun heen, en vooral tijd om haar te laten worden, wie ze wilt worden."
+  },
+  {
+    "id": "9",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Scar",
+    "status": "available",
+    "type": "cat",
+    "age": "6",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "indoor"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "no",
+    "catFriendly": "yes",
+    "smallKidFriendly": "yes",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Scar is een Lieve Zwarte knuffel met enkele Witte teentjes. \nHet is een knuffel en geniet van aaitjes. \nHij luistert ook wel goed om eerlijk te zijn. \nEet heel smakelijk en met geluid zijn brokjes op :)\nGeniet ook van een vleesje of een snoepje af en toe. \nKan met andere FIV+ poezen maar geniet evengoed van alleen leven. \nHij kan niet bij honden. \nKinderen gaat ook gaan zolang de kinderen weten hoe je met een poes omgaat/. \nHij is spijtig genoeg aids positief getest dus moet een huisje binnen hebben. \nHij neemt geen medicatie. En is nog lekker rond en gezond voor de rest. \nHij zoekt een liefdevolle Thuis die hem graag ziet\n\nInteresse mail ons voor de vragenlijst"
+  },
+  {
+    "id": "10",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Dallas",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "female",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "yes",
+    "catFriendly": "yes",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "europese half lang haar - dallas is een poesje met een verleden, zij zoekt dus een rustig huisje waar ze vooral alle tijd krijgt die ze moet hebben om haar te ontplooien \nals je haar op haar gemak laat doen dan kom je het verste heb ik gemerkt \nliefst niet met teveel dieren en ook niet echt met kleine kinderen \neen rustige huis zou t beste zijn \ninteresse mail ons voor de vragenlijst"
+  },
+  {
+    "id": "11",
+    "websites": {
+      "pets": "REMOVED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Dino",
+    "status": "adopted",
+    "type": "dog",
+    "age": "4",
+    "gender": "male",
+    "dog": {
+      "breed": "chihuahua",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": ""
+    },
+    "ageInText": "adult",
     "dogFriendly": "yes",
     "catFriendly": "no",
     "smallKidFriendly": "yes",
     "bigKidFriendly": "yes",
-    "size": "1",
-    "needsSpecialCare": "yes",
-    "specialCareDescr": "bla bla",
-    "vaccinated": "no",
-    "microchipped": "no",
-    "desexed": "no",
-    "wormed": "no",
-    "heartWormTreated": "no",
+    "size": "very small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
     "photo": "yes",
-    "photoCount": 4
+    "photoCount": "4",
+    "comments": "Ik ben Dino een mini chihuahua reutje choco tan. Ik ben een hondje dat heel veel geduld en tijd nodig heb want ik ben wat schuchter. Maar eens ik mijn vrouwtje ken lukt het mij wel.\nDan ben ik een echte schoothond.\nOok al ben ik klein, wandelen vindt ik fijn.\nIk zoek een huisje waar ik mezelf mag zijn.\nIn het begin plas ik wel eens in huis maar eens ik me goed voel lukt het mij wel. Wie heeft er veel tijd voor mij en heeft geduld genoeg om mij een thuis te geven om tot rust te komen.\nIk kan met honden als ze mij met rust laten. Van katten hou ik niet, kinderen lukt goed maar mannen liggen mij niet zo.\nInteresse mail ons voor onze vragenlijst."
+  },
+  {
+    "id": "12",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Mylos",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Mylos is een terug getrokken jongen die vooral veel tijd en rust nodig heeft\nInteresse mail ons"
+  },
+  {
+    "id": "13",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Ferre",
+    "status": "available",
+    "type": "dog",
+    "age": "4",
+    "gender": "male",
+    "dog": {
+      "breed": "Border spaniel",
+      "carTravel": "unknown",
+      "stayAlone": "yes",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "yes",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "medium",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Ferre is een heel lieve hond die erg graag onder de mensen komt en graag speelt met ander honden.\nWij nodigen vaak vrienden uit en hoe meer volk in huis hoe liever Ferre dat heeft.\nAlleen durft hij soms onverwacht grommen en uithalen naar onbekenden en vooral vreemdelingen.\nOok bij valavond en als het donker is vertoont hij af en toe agressief gedrag.\nWij vermoeden dat zijn zicht bij weinig licht niet optimaal is en hij daardoor bang is.\n2 jaar geleden zijn wij naar de stad verhuisd en hier heeft hij volgens ons onvoldoende beweging en aandacht. (zit te vaak alleen)\nHij is geboren op een boerderij op het platteland en we gingen er van jongs af aan mee naar de hondenschool.\nBijgevolg kent hij de meest gangbare commando's.\nHij bijt niets stuk in huis en wij hadden ooit een poes waar hij graag mee wilde spelen.\nDe poes vond dat minder leuk....dus een echt succes was dat niet.\nHij is ook een buitengewoon goed zwemmer.\nAls hij water ruikt is hij haast niet te stoppen.\nHij is van september 2014. \nferre is een uit huis plaatsing dit wilt zeggen, dat hij nog steeds bij zijn eigenaars woont, en deze ook mee beslissen in verband met de mogelijke adoptanten. alles wordt bekeken in het voordeel van Ferre zelf. \nFerre verblijft in Mechelen. \ninteresse mail ons voor de vragenlijst, telefonisch contact opnemen heeft geen nut, vermits we een ingevulde vragenlijst nodig hebben alle vragen kan u ook gerust per mail stellen dan worden deze beantwoord."
+  },
+  {
+    "id": "14",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Taffy",
+    "status": "available",
+    "type": "dog",
+    "age": "13",
+    "gender": "male",
+    "dog": {
+      "breed": "havanezer",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "senior",
+    "dogFriendly": "yes",
+    "catFriendly": "yes",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "no",
+    "size": "small",
+    "needsSpecialCare": "yes",
+    "specialCareDescr": "kan heel boos reageren op den leiband of aanraken",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Taffy is een seniorhondje dat een trauma te verwerken heeft. Hij heeft 13 jaar aan een ketting in huis gelegen dus kan heel boos reageren op den leiband of aanraken  \nHondje met gebruiksaanwijzing die nog in de maak is\nInteresse mail ons \nTanden zijn gedaan en gecastreerd"
+  },
+  {
+    "id": "15",
+    "websites": {
+      "pets": "REMOVED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Droopy",
+    "status": "adopted",
+    "type": "dog",
+    "age": "11",
+    "gender": "male",
+    "dog": {
+      "breed": "schipperke",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "senior",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "yes",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "3",
+    "comments": "Droopy is een schipperke van 10 jaar oud (in januari 11) Hij is geen kleine kinderen gewoon maar ik denk niet dat dit een probleem is want hij is ontzettend lief! Hij is absoluut niet angstig, ook vreemden begroet hij met heel veel enthousiasme. Hij houdt net als de meeste honden van wandelingen maken. Hij verblijft momenteel in Sinaai.\ninteresse mail ons voor de vragenlijst"
+  },
+  {
+    "id": "16",
+    "websites": {
+      "pets": "REMOVED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Abby",
+    "status": "adopted",
+    "type": "dog",
+    "age": "6",
+    "gender": "female",
+    "dog": {
+      "breed": "american stafford",
+      "carTravel": "unknown",
+      "stayAlone": "unknown",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "yes",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "no",
+    "bigKidFriendly": "yes",
+    "size": "medium",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Abby is een zeer lieve en enthousiaste meid,\nKan heel gek doen als je met haar buiten speelt laat ze zich helemaal gaan.\nmaar is ook een enorme knuffelaar,ze kan er van genieten om lekker dicht bij jou te liggen.\nZe ligt niet in bij ons in de zetel maar heeft verschillende kussens want ze durft wel profiteren en alle regels vergeten eens je haar toegeeft,ze ligt graag op het terras buiten als het goed weer is en ligt ze heel graag te zonnen met een grote bak water naast haar!\n\nOndanks het lieve enthousiasme is ze heel dominant naar andere honden en kleinere kindjes.\nBest raden we ook aan om ze niet in een gezin te plaatsen met kleine kindjes,ze wordt snel jaloers en kan vals uit de hoek komen als ze boven hun kan staan,is ook de reden waarom we een andere thuis voor haar zoeken met onze kleine zoontjes van 1,5 jaar en 3 maanden.\nBij onze oudste zoon van 14 jaar heeft ze nooit problemen mee gehad want die was er voor haar.\nZe is streng en met veel liefde opgevoed. \n\nWe zoeken een even enthousiast adoptie gezin liefst zonder kleine kindjes waar de kinderen al wat ouder zijn of een jong enthousiast koppel zonder kindjes die knuffel gezelschap zoekt..en waar ze zich helemaal kan uitleven met wandelingen en iemand die met haar voetbalt! 🙂\ngeboren 15/7/2012\nabby is een uit huis plaatsing en bevind zich in hamme \nbij interesse gelieve ons te contacteren voor de vragenlijst"
+  },
+  {
+    "id": "17",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Chico",
+    "status": "available",
+    "type": "dog",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "chiuahua",
+      "carTravel": "unknown",
+      "stayAlone": "no",
+      "energyLevel": "normal",
+      "houseTrained": "no"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "very small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "3",
+    "comments": "Hallo iedereen,\n\nIk ben Chico en ben een echt hartendiefje.\nIk ben op zoek naar een baasje dat veel geduld heeft en redelijk veel thuis is om samen aan mijn vertrouwen en angsten te werken. Ook aan mijn zindelijkheid is nog een beetje werk maar met de juiste begeleiding lukt het me wel.\nMomenteel ben ik heel schuchtiger en heb ik verlatingsangst en daardoor durf ik blaffen/janken.\ninteresse zend ons een email"
+  },
+  {
+    "id": "18",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Tilly",
+    "status": "available",
+    "type": "dog",
+    "age": "?",
+    "gender": "female",
+    "dog": {
+      "breed": "mix mechelaar american stafford",
+      "carTravel": "yes",
+      "stayAlone": "yes",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "yes",
+    "catFriendly": "yes",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "medium",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "4",
+    "comments": "tilly is een superlieve hond, die met poezen en andere honden kan. ze is nogal terug getrokken en gedraagt haar soms anders dan andere honden, zeker naar mensen toe duurt het lang eer ze vertrouwen heeft. \nze geniet van een snoepje een beentje \nvan languit in de zon te liggen genieten \nvan te gaan wandelen tussen de velden en in de bossen, lekker genieten \nze is een goede waker maar geen overdreven waker \nautorijden doet ze niet zo graag, maar heb gemerkt als je ze meeneemt met de auto en als je stopt er ineens een goede wandeling mee gaat doen dat ze dit goed aanvaard\nwe zoeken een rustige liefdevolle en vooral rustige thuis voor haar \ndie haar alle tijd van de wereld wilt geven en vooral die haar aanvaard zoals ze is \nze is een hondenluik gewend, \nligt graag binnen als het koud is maar ligt met dit warme weer veel buiten in de tuin te genieten \nze graaft wel putten dus dat moet je zeker kunnen verdragen \ninteresse mail ons voor de vragenlijst"
+  },
+  {
+    "id": "19",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Zorro",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "indoor"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "yes",
+    "catFriendly": "yes",
+    "smallKidFriendly": "yes",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Zorro zeer lief maar kiest zijn mensen.liefst niet buiten en er mogen andere dierenvriendjes zijn of samen met zijn zus\nInteresse mail ons"
+  },
+  {
+    "id": "20",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Samoerai",
+    "status": "not yet",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Samoerai heeft een heupkop operatie moeten hebben en is nog aan de revalidatie bezig. Die by nog niet vrij voor adoptie. Is wel een schat en knuffel"
+  },
+  {
+    "id": "21",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Soul",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Terug getrokken maar toch lieve zwartekop \nHeeft tijd nodig om aan te passen en een rustige liefdevolle thuis\nInteresse mail ons"
+  },
+  {
+    "id": "22",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Java",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "indoor"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "no",
+    "photoCount": "?",
+    "comments": "Java is een liever grote kater zwart met wit en opvallend snorretje hij heeft ook een gebogen oortje \nSuper knappe jongen en lief\nHij kan enkel geadopteerd worden voor op een appartement of binnenshuis omdat hij positief getest is op aids. \nInteresse mail voor onze vragenlijst"
+  },
+  {
+    "id": "23",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Kleine",
+    "status": "available",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Kleine is de naam van een supergrote kater met een hangbuikje \nEen heel teruggetrokken poes die wel wilt geaaid worden maar niet weet hoe ervan te genieten of hier ermee om te gaan \nDus een poes die tijd vraagt en zijn eigen zin wilt blijven doen\nInteresse mail voor de vragenlijst"
+  },
+  {
+    "id": "24",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Frosty",
+    "status": "not yet",
+    "type": "cat",
+    "age": "?",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "",
+    "catFriendly": "",
+    "smallKidFriendly": "",
+    "bigKidFriendly": "",
+    "size": "small",
+    "needsSpecialCare": "",
+    "specialCareDescr": "",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "",
+    "wormed": "",
+    "heartWormTreated": "",
+    "photo": "no",
+    "photoCount": "?",
+    "comments": "Met onze frosty zijn we nog bezig met zijn socialisatie en dit mede met dank aan star zij toont hem dat mensen toch niet zo eng zijn\nNog niet vrij voor adoptie"
+  },
+  {
+    "id": "25",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Mammy",
+    "status": "not yet",
+    "type": "cat",
+    "age": "?",
+    "gender": "female",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "",
+    "catFriendly": "",
+    "smallKidFriendly": "",
+    "bigKidFriendly": "",
+    "size": "small",
+    "needsSpecialCare": "",
+    "specialCareDescr": "",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "",
+    "wormed": "",
+    "heartWormTreated": "",
+    "photo": "no",
+    "photoCount": "?",
+    "comments": "Gedumpt in een kartonnen doos met haar 3 kittens\nNog enorm angstig dus nog niet vrij voor adoptie"
+  },
+  {
+    "id": "26",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Fudge",
+    "status": "available",
+    "type": "cat",
+    "age": "3",
+    "gender": "female",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "2",
+    "comments": "Fudge is een superlieve meid van 2015. Maar je moet haar vertrouwen winnen. Ze word graag geaaid maar is wantrouwig pakken wilt ze niet. Alles wat op haar tempo doen \nHopelijk vinden we iemand voor haar die haar tijd en liefde wilt geven \nInteresse mail ons"
+  },
+  {
+    "id": "27",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Tio",
+    "status": "available",
+    "type": "cat",
+    "age": "1",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "young",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "tijger kater \ninteresse mail voor de vragenlijst"
+  },
+  {
+    "id": "28",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Nio",
+    "status": "available",
+    "type": "cat",
+    "age": "1",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "young",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "wit zwart \ninteresse mail voor de vragenlijst"
+  },
+  {
+    "id": "29",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Mio",
+    "status": "available",
+    "type": "cat",
+    "age": "1",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "young",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "knuffelaar \ninteresse mail voor de vragenlijst"
+  },
+  {
+    "id": "30",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Ernest",
+    "status": "not yet",
+    "type": "cat",
+    "age": "1",
+    "gender": "male",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "young",
+    "dogFriendly": "",
+    "catFriendly": "no",
+    "smallKidFriendly": "",
+    "bigKidFriendly": "",
+    "size": "small",
+    "needsSpecialCare": "",
+    "specialCareDescr": "",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "",
+    "wormed": "",
+    "heartWormTreated": "",
+    "photo": "yes",
+    "photoCount": "1",
+    "comments": "Dit is Ernest. Hij is ook achtergelaten in een maisveld . Familie van ons hebben hem gevonden toen hij uit het maisveld kwam om wat aandacht en liefde. We hebben hem meegenomen en hem verzorgd. Zijn bovenste lip en eigenlijk heel zijn mond was ontstoken en weggevreten. We zijn onmiddellijk naar de dierenarts gegaan om antibiotica en pijnstilling. Wat moet dat beestje allemaal doorstaan hebben met die verschrikkelijke pijn? Maar desondanks bleef hij vertrouwen hebben in de mens en bleef hij zo lief. Hij kan niet zo goed overweg met andere katten maar met mensen is hij een grote schat! Hij verdient na wat hij allemaal heeft meegemaakt een gouden mandje!\nernest gaat eerst volledig binnenste buiten gekeerd worden door de dierenarts en vanaf hij gezond en wel is komt hij vrij voor adoptie."
+  },
+  {
+    "id": "31",
+    "websites": {
+      "pets": "REMOVED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Trixy",
+    "status": "adopted",
+    "type": "cat",
+    "age": "?",
+    "gender": "vrouw",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "inandout"
+    },
+    "ageInText": "adult",
+    "dogFriendly": "unknown",
+    "catFriendly": "unknown",
+    "smallKidFriendly": "unknown",
+    "bigKidFriendly": "unknown",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unknown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "4",
+    "comments": "trixy is een mooie schattige zwart witte jongedame die een rustig huisje zoekt \nhet is geen pakpoes maar wel een knuffel en aaipoes enkel wat tijd nodig om haar te ontplooien en op haar gemak te voelen bij haar nieuwe baasje \ninteresse mail ons voor de vragenlijst \nverblijft in sint-pauwels"
+  },
+  {
+    "id": "32",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "felix",
+    "status": "not yet",
+    "type": "cat",
+    "age": "",
+    "gender": "",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "",
+    "dogFriendly": "",
+    "catFriendly": "",
+    "smallKidFriendly": "",
+    "bigKidFriendly": "",
+    "size": "",
+    "needsSpecialCare": "",
+    "specialCareDescr": "",
+    "vaccinated": "",
+    "microchipped": "",
+    "desexed": "",
+    "wormed": "",
+    "heartWormTreated": "",
+    "photo": "",
+    "photoCount": "",
+    "comments": ""
+  },
+  {
+    "id": "33",
+    "websites": {
+      "pets": "SKIP",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Smoofl",
+    "status": "not yet",
+    "type": "dog",
+    "age": "",
+    "gender": "",
+    "dog": {
+      "breed": "",
+      "carTravel": "",
+      "stayAlone": "",
+      "energyLevel": "",
+      "houseTrained": ""
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "",
+    "dogFriendly": "",
+    "catFriendly": "",
+    "smallKidFriendly": "",
+    "bigKidFriendly": "",
+    "size": "",
+    "needsSpecialCare": "",
+    "specialCareDescr": "",
+    "vaccinated": "",
+    "microchipped": "",
+    "desexed": "",
+    "wormed": "",
+    "heartWormTreated": "",
+    "photo": "",
+    "photoCount": "",
+    "comments": ""
+  },
+  {
+    "id": "34",
+    "websites": {
+      "pets": "ADDED",
+      "vitus": "",
+      "adopteer": ""
+    },
+    "name": "Kyra",
+    "status": "available",
+    "type": "dog",
+    "age": "1",
+    "gender": "vrouw",
+    "dog": {
+      "breed": "jack russel",
+      "carTravel": "unknown",
+      "stayAlone": "yes",
+      "energyLevel": "normal",
+      "houseTrained": "yes"
+    },
+    "cat": {
+      "lifestyle": "undefined"
+    },
+    "ageInText": "young",
+    "dogFriendly": "yes",
+    "catFriendly": "no",
+    "smallKidFriendly": "yes",
+    "bigKidFriendly": "yes",
+    "size": "small",
+    "needsSpecialCare": "no",
+    "specialCareDescr": "/",
+    "vaccinated": "yes",
+    "microchipped": "yes",
+    "desexed": "unkown",
+    "wormed": "unknown",
+    "heartWormTreated": "unknown",
+    "photo": "yes",
+    "photoCount": "3",
+    "comments": "Kyra is een Jack Russel teef van 8 maand oud. \nZij moet natuurlijk nog veel leren.\nZe is wel al zinlijk en is niet angstig in huis of op straat.\nZe is super lief en speels.\nZe heeft een goed omheinde tuin nodig want ze kan hoog springen.\nKinderen is geen probleem maar poezen daar gaat ze achteraan. We zoeken een thuis waar ze kan spelen en ravotten en veel kan gaan wandelen\ninteresse mail ons voor de vragenlijst"
   }
 ]
